@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(236, 11, 11);
+}
+
+img {
+    height: 500px;
+}
+
+.quimica {
+    border: 6px dotted rgb(19, 18, 18);
+}
+
+
+nav li{
+    display: inline;
+    margin: 30px;
+    font-size: 1em;
+}
+
+nav a {
+    color: rgb(122, 242, 11);
+}
+
+nav a:hover {
+    color: rgb(122, 241, 10);
+}
