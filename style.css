@@ -1,26 +1,28 @@
 body {
-    background-color: rgb(236, 11, 11);
+    background-color: rgba(228,8, 8, 0.726));
 }
 
-img {
-    height: 500px;
+h1{
+    text-align: center;
+    color: rgb(4, 0, 255);
 }
-
-.quimica {
-    border: 6px dotted rgb(19, 18, 18);
+img{
+    margin-left: 36%;
 }
-
 
 nav li{
     display: inline;
-    margin: 30px;
+    margin: 20px;
     font-size: 1em;
 }
 
 nav a {
-    color: rgb(122, 242, 11);
+    color: rgb(25, 10, 55);
 }
 
 nav a:hover {
-    color: rgb(122, 241, 10);
+    color: rgb(224, 0, 0);
+}
+footer{
+    text-align: center;
 }
